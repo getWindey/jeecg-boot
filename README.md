@@ -1,5 +1,5 @@
-#jeecg-boot
-#技术架构：
+# jeecg-boot
+# 技术架构：
 后端
 基础框架：Spring Boot 2.0.3.RELEASE
 
@@ -15,7 +15,7 @@
 
 其他：fastjson，poi，Swagger-ui，quartz, lombok（简化代码）等。
 
-#前端
+# 前端
 Vue 2.5.22,Vuex,Vue Router
 Axios
 ant-design-vue
